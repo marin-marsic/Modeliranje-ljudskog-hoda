@@ -1,0 +1,1 @@
+../../../FerSimulator/FerSimulator.uproject  /Game/FER -Messaging -SessionId=22A6CF4F4E9E1A8E180E9B9FF81AFBD0 -SessionOwner=marin -SessionName='Play On Device' -iterative
