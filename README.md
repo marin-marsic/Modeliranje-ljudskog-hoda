@@ -8,4 +8,6 @@ Autor modela interijera je [Bruno Pregun](https://github.com/burst149/FerSimulat
 
 [Demonstracijski video](https://www.youtube.com/watch?v=uyb5Bn1HD8w)
 
+
+#### Screenshot: 
 <img src="Screenshot.png" width="600"></img>
