@@ -6,6 +6,6 @@ Pri izradi je korišten Unreal Engine 4.7
 
 Autor modela interijera je [Bruno Pregun](https://github.com/burst149/FerSimulator2015)
 
-
 [Demonstracijski video](https://www.youtube.com/watch?v=uyb5Bn1HD8w)
 
+<img src="Screenshot.png" width="600"></img>
